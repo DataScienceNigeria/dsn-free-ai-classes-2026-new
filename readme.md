@@ -30,4 +30,4 @@ Welcome to the **DSN Free AI Classes 2026** — Africa’s largest free AI train
 - Each track must be completed within 7 days  
 
 ## 📩 Support
-freeaiclasses@datasciencenigeria.org
+aicommunity@datasciencenigeria.org
