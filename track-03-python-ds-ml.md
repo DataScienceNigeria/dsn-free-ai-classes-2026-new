@@ -12,9 +12,9 @@ Learn Python and its application in Data Science and Machine Learning.
 https://learnwithdsn.com
 
 ## 🚀 Getting Started
-1. Register on the platform  
+1. Participants will be onboarded on the learning platform on Batches. THis will be done by 9 am , 12 noon and 6 Pm everyday
 2. Log in with your email  
-3. Access your course  
+3. Pasword: FAIC26
 4. Start learning  
 
 ## 📚 What You’ll Learn
