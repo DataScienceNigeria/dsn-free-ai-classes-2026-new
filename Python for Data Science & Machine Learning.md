@@ -1,7 +1,7 @@
 # Track 03: Python for Data Science & Machine Learning
 
 **Platform:** LearnWithDSN  
-**Duration:** 7 Days  
+**Duration:** 5 Days  
 **Level:** Beginner  
 **Cost:** Free  
 
