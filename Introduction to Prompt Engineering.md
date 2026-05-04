@@ -1,7 +1,7 @@
 # Track 04: Introduction to Prompt Engineering
 
 **Platform:** LearnWithDSN  
-**Duration:** 7 Days  
+**Duration:** 5 Days  
 **Level:** Beginner  
 **Cost:** Free  
 
@@ -12,7 +12,7 @@ Learn how to effectively interact with AI systems and large language models.
 https://learnwithdsn.com
 
 ## 🚀 Getting Started
-1. Register on the platform  
+1.Participants will be onboarded on the learning platform in batches. This will be done by 9 am , 12 noon and 6 Pm everyday
 2. Log in  
 3. Access your course  
 4. Begin learning  
