@@ -58,7 +58,7 @@ You can submit any of the following:
 ## 📩 Support
 
 For assistance, contact:  
-**aicommunity@datasciencenigeria.org**
+**aicommunity@datasciencenigeria.ai**
 
 ---
 
