@@ -16,10 +16,10 @@ Welcome to the **DSN Free AI Classes 2026** — Africa’s largest free AI train
 5. Get Certified  
 
 ## 📚 Learning Tracks
-- [Track 01: AI Fluency for Future Workforce](AI Fluency for Future Workforce.md)
-- [Track 02: Data Storytelling & Visualization](Data Storytelling & Visualization.md)
-- [Track 03: Python for Data Science & ML](Python for Data Science & Machine Learning.md)
-- [Track 04: Introduction to Prompt Engineering](Introduction to Prompt Engineering.md)
+- [Track 01: AI Fluency for Future Workforce](AI-Fluency-for-Future-Workforce.md)
+- [Track 02: Data Storytelling & Visualization](Data-Storytelling-&-Visualization.md)
+- [Track 03: Python for Data Science & ML](Python-for-Data-Science-&-Machine-Learning.md)
+- [Track 04: Introduction to Prompt Engineering](Introduction-to-Prompt-Engineering.md)
 
 ## 🏆 Rewards
 - DSN Certificate of Completion  
