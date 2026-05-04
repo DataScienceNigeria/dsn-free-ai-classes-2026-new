@@ -25,17 +25,7 @@ You can submit any of the following:
 ---
 
 ### **Step 3: Fill the Submission Form**
-- Use the official submission link shared via:
-  - Your onboarding email  
-  - DSN community channels  
-
-- Provide:
-  - Full Name  
-  - Registered Email Address  
-  - Selected Track  
-  - Upload your proof  
-
----
+- Use the official submission link shared via: https://forms.gle/DWEjYCtMB2ASSjga9---
 
 ### **Step 4: Verification**
 - Submissions will be reviewed by the DSN team  
