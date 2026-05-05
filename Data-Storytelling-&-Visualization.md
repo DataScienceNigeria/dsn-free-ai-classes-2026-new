@@ -46,7 +46,7 @@ This project is an opportunity for you to apply everything you have learned by b
 - Identify a domain or problem area of interest  
 - Source or use a relevant dataset  
 - Clean and analyze the data  
-- Build an interactive dashboard (Power BI, Excel, or any visualization tool)  
+- Build an interactive dashboard with Power BI
 - Highlight key insights and tell a compelling data story  
 
 ---
