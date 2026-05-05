@@ -13,9 +13,13 @@ https://learnwithdsn.com
 
 ## 🚀 Getting Started
 1.Participants will be onboarded on the learning platform in batches. This will be done by 9 am , 12 noon and 6 Pm everyday
+
 2. Log in with your email
+
 3. Pasword: FAIC26
+
 4. Access your course  
+
 5. Begin learning  
 
 ## 📚 What You’ll Learn
