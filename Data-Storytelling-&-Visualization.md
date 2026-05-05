@@ -1,7 +1,7 @@
 # Track 02: Data Storytelling & Visualization
 
 **Platform:** Microsoft Learn  
-**Duration:** 7 Days  
+**Duration:** 5 Days  
 **Level:** Beginner  
 **Cost:** Free  
 
