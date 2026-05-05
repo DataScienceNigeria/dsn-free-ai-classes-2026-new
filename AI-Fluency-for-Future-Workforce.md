@@ -1,7 +1,7 @@
 # Track 01: AI Fluency for Future Workforce
 
 **Platform:** Digital Skills Nigeria  
-**Duration:** 7 Days  
+**Duration:** 5 Days  
 **Level:** Beginner  
 **Cost:** Free  
 
