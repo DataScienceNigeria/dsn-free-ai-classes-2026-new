@@ -25,7 +25,7 @@ You can submit any of the following:
 ---
 
 ### **Step 3: Fill the Submission Form**
-- Use the official submission link shared via: https://forms.gle/DWEjYCtMB2ASSjga9---
+- Use the official submission link shared via: https://forms.gle/wEFkFDdgC7Eu321JA
 
 ### **Step 4: Verification**
 - Submissions will be reviewed by the DSN team  
