@@ -31,11 +31,11 @@ https://learn.microsoft.com
 ## 🎯 Outcome
 Build skills in data storytelling and prepare for PL-300 certification.
 
-# 📊 Capstone Project – Data Analytics Track
+## 📊 Capstone Project 
 
 Dear Participant,
 
-As you progress in the **Data Analytics Track**, we are excited to introduce your **Capstone Project**.
+As you progress in the **Data Storytelling & Visualization**, we are excited to introduce your **Capstone Project**.
 
 This project is an opportunity for you to apply everything you have learned by building a **data dashboard** based on a domain or area of interest (e.g., health, finance, education, sports, etc.).
 
@@ -56,7 +56,7 @@ This project is an opportunity for you to apply everything you have learned by b
 Once completed, submit your dashboard for review using the link below:
 
 🔗 **Submit Your Capstone Project:**  
-[[Submission Link](https://forms.gle/DWEjYCtMB2ASSjga9---)]
+[[Submission Link](https://forms.gle/wEFkFDdgC7Eu321JA)]
 
 ---
 
@@ -79,6 +79,4 @@ We look forward to seeing the amazing dashboards you will build.
 
 ---
 
-**DSN Community Team**rtunity for you to apply everything you have learned by building a 
-        <strong>data dashboard</strong> based on a domain or area of interest (e.g., health, finance, education, sports, etc.).
-    
+**DSN Community Team**
