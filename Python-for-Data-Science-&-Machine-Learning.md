@@ -15,7 +15,7 @@ https://learnwithdsn.com
 1. Participants will be onboarded on the learning platform in batches. This will be done by 9 am , 12 noon and 6 Pm everyday
 2. Log in with your email  
 3. Pasword: FAIC26
-4. Start learning  
+4. To Start learning, Click on the course link https://learnwithdsn.com/course/view.php?id=240
 
 ## 📚 What You’ll Learn
 - Python Basics  
