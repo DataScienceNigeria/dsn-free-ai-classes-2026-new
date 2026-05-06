@@ -14,7 +14,7 @@ https://learn.microsoft.com
 ## 🚀 Getting Started
 1. Sign in to Microsoft Learn  
 2. Search "Data Analyst Associate (PL-300)"  
-3. Start learning path  
+3. Start learning path  by clicking this link https://learn.microsoft.com/en-us/training/courses/pl-300t00
 
 ## 📚 What You’ll Learn
 - Power BI  
